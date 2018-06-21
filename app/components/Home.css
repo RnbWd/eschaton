@@ -6,6 +6,7 @@
   text-align: center;
   border: 1px solid black;
   height: 500px;
+  background: white;
 }
 
 .container h2 {
@@ -14,4 +15,8 @@
 
 .container a {
   font-size: 1.4rem;
+}
+
+body {
+  background: transparent;
 }
