@@ -1,0 +1,15 @@
+{
+	"workbench.colorTheme": "Oceanic Next (Sublime)",
+	"prettier.singleQuote": true,
+	"prettier.trailingComma": "all",
+	"editor.formatOnSave": true,
+	"javascript.validate.enable": false,
+	"flow.useNPMPackagedFlow": true,
+	"git.enableSmartCommit": true,
+	"editor.wordWrap": "on",
+	"eslint.nodePath": "/Users/finnegan/.nvm/versions/node/v10.4.1/lib/node_modules/",
+	"eslint.options": {
+		"configFile": "/Users/finnegan/.eslintrc"
+	},
+	"editor.tabSize": 2,
+}
